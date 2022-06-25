@@ -1,0 +1,14 @@
+Zadanie2
+
+badanie statusu - git status 
+dodanie plików - git add -A
+potwierdzenie - git commit -m 
+wysyłanie - git remote add origin https://github.com/login/cdv/git git push origin master 
+
+zadanie3 
+
+SELECT * FROM CoffeShop WHERE Product like "latte" AND Product like "LongBlack" AND city=!"Philadelphia"
+
+SELECT Product, Size FROM CoffeShop WHERE Customer ref like "thompson_86" AND Customer ref like "mark taylor_113"
+
+SELECT City FROM CoffeShop WHERE Product like "Cappucino" AND Product like "FlatWhite"
